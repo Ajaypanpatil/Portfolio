@@ -73,7 +73,7 @@ function App() {
       <section className="py-20 bg-gradient-to-br from-primary/5 to-secondary/5">
         <div className="container mx-auto px-4 text-center">
           <div className="max-w-4xl mx-auto">
-            <h2 className="text-5xl font-bold mb-6 bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent">
+            <h2 className="text-5xl pb-2 font-bold mb-6 bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent">
               Transforming Ideas into Scalable Digital Solutions
             </h2>
             <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
