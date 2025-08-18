@@ -203,7 +203,7 @@ function App() {
                       </a>
                     </Button>
                     <Button size="sm" variant="outline" asChild>
-                      <a href="https://github.com/Ajaypanpatil/hiresphere" target="_blank" rel="noopener noreferrer">
+                      <a href="https://github.com/Ajaypanpatil/HireSphere-MERN-Job-Portal" target="_blank" rel="noopener noreferrer">
                         <Github className="w-4 h-4 mr-2" />
                         Code
                       </a>
