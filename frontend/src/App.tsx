@@ -562,7 +562,7 @@ function App() {
 
                   <div className="flex gap-4">
                     <Button variant="outline" size="sm" asChild>
-                      <a href="https://linkedin.com/in/ajay-panpatil" target="_blank" rel="noopener noreferrer">
+                      <a href="https://www.linkedin.com/in/ajay-panpatil-9413572a1/" target="_blank" rel="noopener noreferrer">
                         <Linkedin className="w-4 h-4 mr-2" />
                         LinkedIn
                       </a>
